@@ -379,3 +379,7 @@
 ## 12. **开发及测试工具约定**
 
 1. 可根据自己喜好选择IDE，编码必须格式化，比如缩进、换行等
+
+## React
+由于JSX比HTML更接近JavaScript，React DOM使用驼峰命名法约定而不是HTML属性名称。
+例如，class在JSX中变为className，tabindex变为tabIndex。
